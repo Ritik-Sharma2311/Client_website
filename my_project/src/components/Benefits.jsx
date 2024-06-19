@@ -3,11 +3,11 @@ import mobile_logo from '../assets/images/mobile_logo.jpg'
 
 function Benefits() {
   return (
-    <div className='max-w-[1240px] p-2 my-10 mx-auto md:grid grid-cols-3 md:gap-20'>
+    <div className='max-w-[1240px] p-2 my-10 mx-auto md:grid grid-cols-3 gap-10 lg:gap-20'>
       <div className='col-span-2 text-center'>
         <img src={mobile_logo} alt="" />
       </div>
-      <div className='flex flex-col justify-center text-center md:text-start gap-3'>
+      <div className='flex flex-col justify-center text-center md:text-start gap-4'>
        
         <p className='text-xl md:text-2xl font-semibold'>
           <h1 className='text-green-500 font-bold  text-5xl md:text-8xl'>2.5x</h1>
