@@ -3,6 +3,7 @@ import React from 'react'
 import Header from './components/Header'
 import Banner from './components/Banner'
 import Benefits from './components/Benefits'
+import Demo from './components/Demo'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <Header/>
     <Banner/>
     <Benefits/>
+    <Demo/>
     </>
   )
 }
