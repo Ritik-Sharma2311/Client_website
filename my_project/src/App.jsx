@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Banner from './components/Banner'
 import Benefits from './components/Benefits'
 import Demo from './components/Demo'
+import Workflow from './components/Workflow'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Banner/>
     <Benefits/>
     <Demo/>
+    <Workflow/>
     </>
   )
 }
