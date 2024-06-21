@@ -41,7 +41,7 @@ function Workflow() {
         </div>
 
       <div className='flex flex-col justify-center text-center  gap-4'> 
-          <h1 className=' text-green-500 text-2xl md:text-4xl font-bold pb-2'>Open Account</h1>
+          <h1 className=' text-green-500 text-2xl md:text-4xl font-bold pb-2'>Get QR Codes</h1>
           <p className='md:text-2xl'>
            Once our team does the setup we will send WhatsApp Qr to check working. As soon as you approve we will send a kit to your address.
            </p>
@@ -62,9 +62,9 @@ function Workflow() {
         </div>
 
       <div className='flex flex-col justify-center text-center  gap-4'> 
-          <h1 className=' text-green-500 text-2xl md:text-4xl font-bold pb-2'>Open Account</h1>
+          <h1 className=' text-green-500 text-2xl md:text-4xl font-bold pb-2'>Intro Your Staff</h1>
           <p className='md:text-2xl'>
-           Our dedicated team will provide a quick training session to your staff. It's time to increase customer experience& sales welcome to UpSale.
+           Our dedicated team will provide a quick training session to your staff. It's time to increase customer experience & sales welcome to UpSale.
            </p>
       
     </div>
